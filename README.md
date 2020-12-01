@@ -1,7 +1,9 @@
 
 #createssh <br><br>cara mudah memuat account createssh di termux 
 <br>pkg update && pkg upgrade 
-<br>pkg install python2
+<br>pkg install python
+<br>python3 -m pip requests
+<br>python3 -m pip install bs4
 <br>pkg install git
 <br>git clone https://github.com/BLACheat78/createsh.git
 <br>cd createsh
