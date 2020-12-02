@@ -2,6 +2,7 @@
 #createssh <br><br>cara mudah memuat account createssh di termux 
 <br>pkg update && pkg upgrade 
 <br>pkg install python2
+<br>pip install --upgrade pip
 <br>pip2 install requests
 <br>pip2 install bs4
 <br>pkg install git
